@@ -3,7 +3,6 @@
 Dokumen ini berisi panduan prinsip desain untuk sistem, aplikasi, dan website guna memastikan antarmuka pengguna (UI) dan pengalaman pengguna (UX) terasa autentik, memiliki tujuan, dan menghindari jebakan "AI Slop" (desain yang terasa generik, dihasilkan secara otomatis, berlebihan secara visual tanpa makna fungsional, dan kehilangan sentuhan manusia).
 
 ## 1. Definisi "AI Slop" dalam Desain
-
 "AI Slop" merujuk pada tren desain yang dipengaruhi oleh alat generatif atau template instan (seperti *mockup* generik di Dribbble) yang ditandai dengan:
 * Estetika "Neon & Glow" pada tema gelap (biru/indigo gelap dengan aksen neon terang).
 * Tampilan "Bubbly" dengan sudut (border-radius) yang terlalu membulat pada aplikasi serius/industrial.
@@ -41,13 +40,11 @@ Aplikasi tingkat profesional (seperti ERP atau sistem manajemen) harus terasa in
 * **Grafik Fungsional:** Grafik kecil (sparklines) tidak membutuhkan gradien transparan di bawahnya jika hanya berfungsi sebagai indikator tren. Gunakan garis solid.
 
 ## 4. Eksekusi UX (Pengalaman Pengguna)
-
 * **Kejelasan > Kepintaran:** Jangan menyembunyikan navigasi di balik ikon yang ambigu. Gunakan label teks yang jelas tanpa harus selalu dibungkus *background fill*.
 * **Aksesibilitas (A11y):** Pastikan desain dapat digunakan oleh semua orang. Estetika "glow" sering gagal dalam uji rasio kontras.
 * **Umpan Balik Mikro (Micro-feedback):** Berikan respons visual kecil saat pengguna berinteraksi yang terasa natural, bukan animasi memantul (*bouncy*) yang berlebihan.
 
 ## 5. Ceklis Evaluasi "Anti-Slop"
-
 Sebelum merilis desain, tanyakan pada diri sendiri:
 * [ ] Apakah aplikasi ini terasa terlalu "bubbly" (sudut terlalu bulat) untuk sebuah sistem profesional?
 * [ ] Apakah saya menggunakan *card* di dalam *card*? Bisakah saya menggantinya dengan ruang kosong atau garis pembatas?

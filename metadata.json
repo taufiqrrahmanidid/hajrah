@@ -1,0 +1,8 @@
+{
+  "name": "Hajrah - SaaS ERP Travel, Haji & Umrah",
+  "description": "Multi-Tenant SaaS ERP platform for Hajj and Umrah travel agencies with transaction management, SAK ETAP accounting, inventory, CRM, DMS, and white-labeling.",
+  "version": "1.0.0",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
